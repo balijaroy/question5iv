@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+void myFunction() {
+  cout << "My First Function";
+}
+int main () {
+//Calling the function
+  myFunction();
+  return 0;
+}
